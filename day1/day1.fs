@@ -1,0 +1,4 @@
+\ allocate 1000 integers for each list
+CREATE LIST1 1000 CELLS ALLOT
+CREATE LIST2 1000 CELLS ALLOT
+
